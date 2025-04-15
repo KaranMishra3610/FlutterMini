@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969070961040",
+    "project_id": "registermpl",
+    "storage_bucket": "registermpl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969070961040:android:b51b4913e4af1cda8d9315",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6neMSxmGVnEmvyT8rsSdwmPeWQ3xc-oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
